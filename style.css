@@ -402,61 +402,6 @@ section{
 
 }
 
-/* ===========================
-   COMPARISON TABLE
-=========================== */
-
-.table-container{
-
-    overflow-x:auto;
-
-}
-
-table{
-
-    width:100%;
-
-    border-collapse:collapse;
-
-    background:rgba(255,255,255,.06);
-
-    backdrop-filter:blur(12px);
-
-    border-radius:15px;
-
-    overflow:hidden;
-
-}
-
-th{
-
-    background:#00bfff;
-
-    color:white;
-
-    padding:18px;
-
-    font-size:20px;
-
-}
-
-td{
-
-    padding:18px;
-
-    border-bottom:1px solid rgba(255,255,255,.08);
-
-    text-align:center;
-
-    color:#eaf3ff;
-
-}
-
-tr:hover{
-
-    background:rgba(255,255,255,.05);
-
-}
 
 /* ===========================
    BENEFITS
